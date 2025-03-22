@@ -1,0 +1,16 @@
+.oddsies {
+    background-color: hsl(335, 86%, 66%);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.special3 {
+    font-size: 24px;
+}
+#second {
+    color: hsl(244, 89%, 28%);
+    font-size: 36px;
+}
+#fourth {
+    background-color: hsl(86, 87%, 49%);
+    font-size: 24px;
+    font-weight: bold;
+}
